@@ -25,4 +25,4 @@ jobs:
         if: always()
         with:
           name: bandit-findings
-          path: bandit-repost.json
+          path: bandit-report.json
